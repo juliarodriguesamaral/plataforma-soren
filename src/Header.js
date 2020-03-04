@@ -1,5 +1,5 @@
 import React, {Component} from 'react'
-import Logo from '/home/myworkspace/Área de Trabalho/Julia/soren/src/images/Soren.png'
+import Logo from '/home/recode/Soren/plataforma-soren/src/images/Soren.png'
 import { Link } from 'react-router-dom'
 import LinkHeader from '../src/components/LinkHeader'
 

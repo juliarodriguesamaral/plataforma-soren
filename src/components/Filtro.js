@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Filter from '/home/myworkspace/Área de Trabalho/Julia/soren/src/images/Filter.png'
+import Filter from '/home/recode/Soren/plataforma-soren/src/images/Filter.png'
 
 
 class Filtro extends Component {

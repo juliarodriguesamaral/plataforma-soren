@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import "./Intro.css"
-import Banner from '/home/myworkspace/Área de Trabalho/Julia/soren/src/images/Casal.png'
+import Banner from '/home/recode/Soren/plataforma-soren/src/images/Casal.png'
 import BarraDeBusca from '../components/BarraDeBusca'
 
 

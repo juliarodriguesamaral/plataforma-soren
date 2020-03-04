@@ -12,7 +12,6 @@ class Mid extends Component {
                     <div className="text-center pb-lg-4" style={{fontFamily:"Montserrat"}}>
                         <h1 className="mb-5">Como utilizar o SOREN?</h1>
                         <Bloco/>
-                        <h1> Por que SOREN? </h1>
                     </div>
                 </div>
             </section>
